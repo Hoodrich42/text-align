@@ -1,0 +1,21 @@
+.content {
+	width: 400px;
+	height: 1300px;
+	outline: 2px solid #000;
+	padding: 5px 5px;
+}
+
+.content__img{
+	float: left;
+	width: 150px;
+}
+
+.text__img{
+	text-align: center;
+	width: 120px;
+}
+
+.content__text {
+	padding-left: 0px;
+
+}
